@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Apr 23 13:44:11 2025
+# Process ID: 9032
+# Current directory: C:/Central_DCC/Central_DCC/Central_DCC.runs/central_design_microblaze_0_0_synth_1
+# Command line: vivado.exe -log central_design_microblaze_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source central_design_microblaze_0_0.tcl
+# Log file: C:/Central_DCC/Central_DCC/Central_DCC.runs/central_design_microblaze_0_0_synth_1/central_design_microblaze_0_0.vds
+# Journal file: C:/Central_DCC/Central_DCC/Central_DCC.runs/central_design_microblaze_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source central_design_microblaze_0_0.tcl -notrace
